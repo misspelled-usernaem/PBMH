@@ -1,7 +1,7 @@
 # PBMH
 
-❌ - Not implemented
-✅ - Implemented
+❌ - Not implemented\
+✅ - Implemented\
 🔜 - Working on it
 
 # Progression ❌
@@ -11,13 +11,13 @@
 - Sniper:       Slow firing speed,          Perfect accuracy,       Fast bullet speed,          Low bullet drop
 - Shotgun:      Below average firing speed, Highly inaccurate,      Slow bullet speed,          High bullet drop, Multiple bullets
 - Automatic:    Fast firing speed,          Inaccurate,             Below average bullet speed, Average bullet drop,    Fully automatic
-- Launcher (?): Slow firing speed,          Below average accuracy, Slow bullet speed,          Very high bullet drop,  AOE on impact
+- Launcher (?): Slow firing speed,          Below average accuracy, Slow bullet speed,          Very high bullet drop,  AOE on impact\
 
 # Paint grenade 🔜
 - Normal: Blows up 3.5 seconds after thrown, Average AOE
 - Impact: Blows up upon impact or 10 seconds after thrown, Low AOE
 - Sticky: Blows up 3.5 seconds after thrown, Sticks to surfaces, Average AOE
-- Heavy:  Blows up 5 seconds after thrown, Low throwing velocity, Large AOE
+- Heavy:  Blows up 5 seconds after thrown, Low throwing velocity, Large AOE\
 
 # More gamemode
 - ✅ CTF
