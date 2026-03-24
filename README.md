@@ -67,7 +67,7 @@
 
 # Flag location indicator 🔜
 
-# Client side bullet physics ❌
+# Client side bullet physics ✅
 
 # GUI
 - 🔜 Round type
