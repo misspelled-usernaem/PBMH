@@ -63,20 +63,19 @@
 
 - ❌ Tactical malpractice * Earn a long shot bonus using a shotgun
 
-# Restricted spawn rooms 🔜
+# Restricted spawn rooms ✅
 
-# Flag location indicator ❌
-- Not sure how to implement this as there are no in-world guis
+# Flag location indicator 🔜
 
 # Client side bullet physics ❌
 
-# GUI ❌
-- Round type
-- Round timer
-- Your team
-- KO cam
-- KO feed
+# GUI
+- 🔜 Round type
+- 🔜 Round timer
+- 🔜 Your team
+- ❌ KO cam
+- ❌ KO feed
 
-# Bug fixes 🔜
-- Leaderboard not removing players that have left
-- Players joining automatically pick up the flag
+# Bug fixes
+- ✅ Leaderboard not removing players that have left
+- 🔜 Players joining automatically pick up the flag
