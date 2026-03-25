@@ -57,7 +57,7 @@
 
 - ✅ Return fire! * KO an enemy within 3 seconds of them KO'ing your teammate
 - ✅ Mutually assured death * Get a KO while being KO'd
-- 🔜 Could've sworn... * KO an unarmed enemy player (You're going in for a LONG time)
+- ✅ Could've sworn... * KO an unarmed enemy player (You're going in for a LONG time)
 
 - ❌ There's help if you need it... * Call a vote kick on yourself???
 
