@@ -65,16 +65,16 @@
 
 # Restricted spawn rooms ✅
 
-# Flag location indicator 🔜
+# Flag location indicator ✅
 
 # Client side bullet physics ✅
 
 # GUI
-- 🔜 Round type
-- 🔜 Round timer
+- ✅ Round type
+- ✅ Round timer
 - 🔜 Your team
-- ❌ KO cam
-- ❌ KO feed
+- ✅ KO cam
+- ✅ KO feed
 
 # Bug fixes
 - ✅ Leaderboard not removing players that have left
